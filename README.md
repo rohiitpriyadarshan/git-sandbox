@@ -2,6 +2,7 @@
 A Repository for learning and practicing git
 Add your Name, Github username and Email-ID
 
+Rohiit Priyadarshan, (rohiitpriyadarshan), reachthespace@gmail.com
 
 ## Welcome to the Git Sandbox
 
